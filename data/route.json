@@ -1,0 +1,9 @@
+{
+  "steps": [
+    { "id": 1, "type": "forward", "text": "Walk forward 10 meters" },
+    { "id": 2, "type": "left",    "text": "Turn left at the corridor" },
+    { "id": 3, "type": "forward", "text": "Proceed 5 meters, doorway on your right" },
+    { "id": 4, "type": "right",   "text": "Turn right and continue straight" },
+    { "id": 5, "type": "arrive",  "text": "Destination ahead, 3 meters" }
+  ]
+}

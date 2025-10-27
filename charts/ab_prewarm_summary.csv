@@ -1,0 +1,7 @@
+cond,value
+ON_median,1.0
+OFF_median,1.0
+ON-OFF_median,0.0
+ON_vs_OFF_%change,0.0
+CI95_low,0.0
+CI95_high,0.0

@@ -1,0 +1,5 @@
+metric,median_ms,IQR_ms,CI95_low_ms,CI95_high_ms,n
+cold_start_ms,153.0,0.0,153.0,153.0,1
+warm_start_ms,89.0,78.0,11.0,167.0,2
+tts_start_latency_ms,1.0,0.0,1.0,1.0,13
+reroute_latency_ms,300.0,0.0,300.0,300.0,3

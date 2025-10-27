@@ -1,0 +1,7 @@
+kivy
+plyer
+pyttsx3
+pandas
+numpy
+matplotlib
+psutil

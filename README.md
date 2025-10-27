@@ -29,11 +29,17 @@ score_surveys.py
 surveys/ (put MARS/SUS CSVs here)
 
 ## Getting Started (Windows / macOS)
+
+# Python version
+Tested on Python 3.10–3.11.
+
 ```bash
 # 1) create & activate venv
 python -m venv .venv
 # Windows PowerShell
 .\.venv\Scripts\Activate.ps1
+# CMD
+.\.venv\Scripts\activate.bat
 # macOS/Linux
 source .venv/bin/activate
 
@@ -77,4 +83,6 @@ python score_surveys.py
 Outputs charts/P5_mars.png and charts/P6_sus.png.
 
 ## License
-Academic/educational use only. Code is licensed under MIT. See LICENSE.
+This repository is provided for **academic/educational use only** (coursework).
+Commercial use and redistribution are **not permitted**. See `LICENSE` for details.
+
